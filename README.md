@@ -1,2 +1,2 @@
-# puntenteller
-Eenvoudige puntenteller met grafische weergave en aanpassing door leerkracht.
+# Puntenteller
+Eenvoudige puntenteller met grafische weergave dmv. Google chart tools en beheermodule voor leerkracht.
