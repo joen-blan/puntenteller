@@ -1,2 +1,2 @@
 # Puntenteller
-Eenvoudige puntenteller met grafische weergave dmv. Google chart tools en beheermodule voor leerkracht.
+Eenvoudige puntenteller met grafische weergave dmv. [Google Charts](https://developers.google.com/chart) en beheermodule voor leerkracht.
